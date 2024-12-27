@@ -11,4 +11,4 @@ página de clima feita como base para estudos.
 
 ## Layout 🔖
 
-É possivel acessar o layout atraves desse <a href="https://www.figma.com/design/t0EFpPokgZHfUMelX8y7tt/P%C3%A1gina-de-Clima-%E2%80%A2-Desafio-10-(Community)?node-id=0-1&p=f&t=uoCzgqutmdF7i0Iq-0">BOTÃO</a>
+É possivel acessar o layout atraves <a href="https://www.figma.com/design/t0EFpPokgZHfUMelX8y7tt/P%C3%A1gina-de-Clima-%E2%80%A2-Desafio-10-(Community)?node-id=0-1&p=f&t=uoCzgqutmdF7i0Iq-0">DESSE LINK</a>
